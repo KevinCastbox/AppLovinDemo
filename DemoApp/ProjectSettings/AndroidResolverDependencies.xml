@@ -5,6 +5,7 @@
     <package>com.applovin.mediation:fyber-adapter:8.2.4.0</package>
     <package>com.applovin.mediation:google-adapter:[22.3.0.0]</package>
     <package>com.applovin.mediation:google-ad-manager-adapter:[22.3.0.0]</package>
+    <package>com.applovin.mediation:hyprmx-adapter:6.2.0.2</package>
     <package>com.applovin:applovin-sdk:11.11.3</package>
     <package>com.google.android.gms:play-services-base:16.1.0</package>
   </packages>
