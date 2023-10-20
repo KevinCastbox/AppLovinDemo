@@ -9,6 +9,7 @@
     <package>com.applovin.mediation:google-ad-manager-adapter:[22.3.0.0]</package>
     <package>com.applovin.mediation:hyprmx-adapter:6.2.0.2</package>
     <package>com.applovin.mediation:inmobi-adapter:10.5.9.0</package>
+    <package>com.applovin.mediation:ironsource-adapter:7.5.2.0.0</package>
     <package>com.applovin:applovin-sdk:11.11.3</package>
     <package>com.google.android.gms:play-services-base:16.1.0</package>
     <package>com.squareup.picasso:picasso:2.71828</package>
