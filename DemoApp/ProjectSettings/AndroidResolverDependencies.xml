@@ -3,6 +3,7 @@
     <package>androidx.recyclerview:recyclerview:1.2.1</package>
     <package>com.android.support:customtabs:28.+</package>
     <package>com.android.support:recyclerview-v7:28.+</package>
+    <package>com.applovin.mediation:bytedance-adapter:5.5.0.6.0</package>
     <package>com.applovin.mediation:chartboost-adapter:9.4.1.0</package>
     <package>com.applovin.mediation:facebook-adapter:[6.16.0.0]</package>
     <package>com.applovin.mediation:fyber-adapter:8.2.4.0</package>
