@@ -1,6 +1,7 @@
 # Ignore mediated networks in the MAX Unity Plugin
-Assets/MaxSdk/Mediation
-Assets/MaxSdk/Mediation.meta
+# 应用项目需要跟踪这些变化
+#Assets/MaxSdk/Mediation
+#Assets/MaxSdk/Mediation.meta
 
 # Jetbrain Rider Cache
 .idea/
@@ -50,9 +51,10 @@ sysinfo.txt
 *.unitypackage
 
 # Jar resolver and its generated libraries
-Assets/Plugins/Android/*[.jar, .aar]
-ProjectSettings/GvhProjectSettings.xml
-ProjectSettings/AndroidResolverDependencies.xml
+# 应用项目需要跟踪这些变化
+#Assets/Plugins/Android/*[.jar, .aar]
+#ProjectSettings/GvhProjectSettings.xml
+#ProjectSettings/AndroidResolverDependencies.xml
 
 # OS generated
 .DS_Store
