@@ -1,13 +1,17 @@
 <dependencies>
   <packages>
+    <package>com.android.support:customtabs:28.+</package>
+    <package>com.android.support:recyclerview-v7:28.+</package>
     <package>com.applovin.mediation:chartboost-adapter:9.4.1.0</package>
     <package>com.applovin.mediation:facebook-adapter:[6.16.0.0]</package>
     <package>com.applovin.mediation:fyber-adapter:8.2.4.0</package>
     <package>com.applovin.mediation:google-adapter:[22.3.0.0]</package>
     <package>com.applovin.mediation:google-ad-manager-adapter:[22.3.0.0]</package>
     <package>com.applovin.mediation:hyprmx-adapter:6.2.0.2</package>
+    <package>com.applovin.mediation:inmobi-adapter:10.5.9.0</package>
     <package>com.applovin:applovin-sdk:11.11.3</package>
     <package>com.google.android.gms:play-services-base:16.1.0</package>
+    <package>com.squareup.picasso:picasso:2.71828</package>
   </packages>
   <files />
   <settings>
