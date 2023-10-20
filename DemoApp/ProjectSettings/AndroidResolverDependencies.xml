@@ -18,6 +18,7 @@
     <package>com.applovin.mediation:unityads-adapter:4.9.1.0</package>
     <package>com.applovin.mediation:verve-adapter:2.20.0.0</package>
     <package>com.applovin.mediation:vungle-adapter:6.12.1.1</package>
+    <package>com.applovin.mediation:yandex-adapter:6.0.1.2</package>
     <package>com.applovin:applovin-sdk:11.11.3</package>
     <package>com.google.android.gms:play-services-base:16.1.0</package>
     <package>com.squareup.picasso:picasso:2.71828</package>
